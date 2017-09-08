@@ -22,6 +22,8 @@ explore: inventory_items {
   }
 }
 
+
+#swp file time
 explore: order_items {
   join: inventory_items {
     type: left_outer

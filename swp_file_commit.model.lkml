@@ -6,6 +6,8 @@ include: "*.view"
 # include all the dashboards
 include: "*.dashboard"
 
+
+#wtf
 explore: events {
   join: users {
     type: left_outer

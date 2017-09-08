@@ -18,6 +18,8 @@ explore: events {
   }
 }
 
+#jesus, just break already
+
 #lets see what this does
 
 explore: inventory_items {

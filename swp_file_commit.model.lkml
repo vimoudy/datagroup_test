@@ -8,6 +8,7 @@ include: "*.dashboard"
 
 
 #wtf
+#okie dokie
 explore: events {
   join: users {
     type: left_outer
